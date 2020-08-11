@@ -1,0 +1,24 @@
+{
+  "name": "practice_portfolio",
+  "version": "1.0.0",
+  "description": "Node, express, turbo, javascript practice portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMField82/practice_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMField82/practice_portfolio/issues"
+  },
+  "homepage": "https://github.com/LMField82/practice_portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "turbo-cli": "^0.39.1"
+  }
+}
